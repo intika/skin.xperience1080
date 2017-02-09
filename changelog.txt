@@ -1,4 +1,11 @@
-﻿[B]5.1.540[/B]
+﻿[B]5.2.000 - Not yet released[/B]
+• Fixing artwork variable WidgetFanart from omarmir 
+* Fixing widgets
+
+[B]5.1.900[/B]
+• Alpha 5.2.000 Testing
+
+[B]5.1.540[/B]
 • Home: Use fanart instead of poster on tv shows widget (classic home)
 • Home: Fix content element in home widget 1 and 2 (classic home)
 • Home: Fix wrong onright condition on movie tiles
